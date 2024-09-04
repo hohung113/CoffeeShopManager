@@ -10,6 +10,8 @@
     <Folder Include="Entities\Business\" />
     <Folder Include="Entities\Dtos\" />
     <Folder Include="Interfaces\IServices\" />
+    <Folder Include="Entities\" />
+    <Folder Include="Services\" />
     <Folder Include="Services\" />
   </ItemGroup>
 

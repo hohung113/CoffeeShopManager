@@ -11,6 +11,10 @@
     <Folder Include="Consts\" />
     <Folder Include="Migrations\" />
     <Folder Include="Models\" />
+    <Folder Include="Data\" />
+    <Folder Include="Consts\" />
+    <Folder Include="Migrations\" />
+    <Folder Include="Models\" />
   </ItemGroup>
 
   <ItemGroup>
